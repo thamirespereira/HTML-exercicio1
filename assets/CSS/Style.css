@@ -1,0 +1,38 @@
+/*Style Index*/
+* {
+    background-color: #ADC5CF;
+}
+.title{
+    color: #005B44;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Lucida Sans';
+}
+.container{
+    display: flex;
+    flex-flow: row-wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    font-family: 'Lucida Sans';
+}
+
+button{
+    width: 100%;
+    background-color: #14a097;
+    color: white;
+    border: none;
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/*Style Preservação*/
+.paragraph{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    font-family: 'Lucida Sans';
+}
